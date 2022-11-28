@@ -1,7 +1,3 @@
-//npm i express nodemon mongoose dotenv ==>tum gereksinimler import
-
-
-
 let express = require("express")//express modulu projeye dahil edilir.
 let app = express()//express paketi ile bir app olusturulur.
 
